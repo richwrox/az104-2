@@ -33,7 +33,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Sample PHP Page</h1>
+        <h1>Welcome To The Second Part of  The Training</h1>
     </header>
     <main>
         <?php
