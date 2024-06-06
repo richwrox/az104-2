@@ -37,7 +37,7 @@
     </header>
     <main>
         <?php
-            echo "<h2>About Us</h2>";
+            echo "<h2>Azure App Service Demo</h2>";
             echo "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent convallis dui ut sapien hendrerit, sit amet auctor orci dictum. Suspendisse potenti. Cras varius, orci a pharetra vestibulum, purus libero pharetra nisl, in fermentum purus felis vel est. Maecenas malesuada, tortor vel blandit eleifend, dolor libero tincidunt lorem, nec semper justo nulla nec felis. Sed id nunc a velit varius dapibus. Mauris a fringilla magna. Suspendisse potenti. Proin faucibus, ligula vel aliquet cursus, odio urna viverra lectus, a scelerisque elit nisi eget urna.</p>";
             
             echo "<h2>Services</h2>";
