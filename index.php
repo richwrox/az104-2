@@ -6,7 +6,7 @@ $extra_email = $_GET['extra_email'] ?? '';
 $billAmt = $_GET['billAmt'] ?? '';
 $paymentDescription = $_GET['paymentDescription'] ?? '';
 $merchantId = $_GET['merchantId'] ?? '';
-$invoiceId = $_GET['invoiceId'] ?? '';
+$invoiceId = $_GET['invoiceNumber'] ?? '';
 ?>
 
 <!DOCTYPE html>
